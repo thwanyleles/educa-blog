@@ -5,6 +5,7 @@ O EducaBlog é uma aplicação de blogging dinâmico desenvolvida para auxiliar 
 ## Funcionalidades
 
 - **Visualização de Posts:** Os alunos podem visualizar uma lista de posts na página principal.
+- **Leitura de Posts:** Os alunos podem ler um post específico ao clicar sobre o título ou conteúdo.
 - **Edição de Posts (Professores):** Os professores podem editar um post ao clicar sobre o título.
 - **Gerenciamento de Postagens (Visão Administrativa):**
     - Os professores podem criar postagens.
