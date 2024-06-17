@@ -31,8 +31,7 @@ O EducaBlog é uma aplicação de blogging dinâmico desenvolvida para auxiliar 
 3. Faça o deploy dos módulos EducaBlog_Backend e EducaBlog_Frontend no ambiente adequado.
 
 ## Documentação
-A documentação completa do projeto, incluindo o fluxo da aplicação e instruções para operações básicas, pode ser encontrada [aqui](https://github.com/thwanyleles/educa-blog/blob/3cf10478894d4979b6b726a4db57662b6857a8ce/Documenta%C3%A7%C3%A3o%20do%20Projeto%20EducaBlog.pdf).
-
+A documentação completa do projeto, incluindo o fluxo da aplicação e instruções para operações básicas, pode ser encontrada aqui.
 ## Contribuição
 Contribuições são bem-vindas! Para maiores informações, veja o arquivo [CONTRIBUTING.md](https://github.com/thwanyleles/educa-blog/blob/master/CONTRIBUTING.md).
 
